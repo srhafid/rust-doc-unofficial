@@ -1,9 +1,9 @@
 # Rust Doc Unofficial
 Este proyecto, en español, está pensado principalmente para personas que recién comienzan a desarrollar en Rust de manera dinámica y divertida. Todo el contenido estará en español como lenguaje principal, aunque la idea es hacerlo crecer a otros idiomas mediante una adaptación sencilla.
 
+### Commands
 
 ```text
-## 🧞 Commands
 
 All commands are run from the root of the project, from a terminal:
 
